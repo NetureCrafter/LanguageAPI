@@ -1,1 +1,13 @@
-
+{
+  "name": "Deutsch",
+  "prefix": "§bJGNeturMC §9»",
+  "locale": "de_DE",
+  "contributors": ["NetureCrafter"],
+  
+  "values": {
+    "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, diesen Befehl zu verwenden!",
+    
+    "ui.button.back": "§cZurück",
+    "ui.button.close": "§cSchließen"
+  }
+}
